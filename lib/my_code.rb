@@ -67,7 +67,7 @@ def reduce_to_total(starting_point, array)
   while i < array.length
     element = array[i]
 
-    total += element
+    starting_point += element
 
     i += 1
   end

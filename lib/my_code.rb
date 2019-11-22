@@ -60,7 +60,7 @@ end
 
 def reduce_to_total(array, starting_point)
   starting_point = 0 if starting_point == nil
-  total 
+  total = 0
 
   i = 0
   while i < array.length

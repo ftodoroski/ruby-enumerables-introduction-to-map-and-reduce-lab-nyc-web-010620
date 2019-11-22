@@ -28,7 +28,7 @@ def  map_to_no_change(array)
   new_array
 end
 
-def   map_to_double(array)
+def map_to_double(array)
   new_array = []
 
   i = 0

@@ -70,6 +70,5 @@ def reduce_to_total(array)
     i += 1
   end
 
-
-
+  total
 end

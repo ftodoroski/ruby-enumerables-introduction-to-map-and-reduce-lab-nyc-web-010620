@@ -10,4 +10,5 @@ def map_to_negativize(array)
     i += 1
   end
 
+  new_array
 end

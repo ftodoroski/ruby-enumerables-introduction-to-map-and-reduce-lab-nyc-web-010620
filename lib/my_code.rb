@@ -72,5 +72,5 @@ def reduce_to_total(starting_point, array)
     i += 1
   end
 
-  total
+  starting_point
 end

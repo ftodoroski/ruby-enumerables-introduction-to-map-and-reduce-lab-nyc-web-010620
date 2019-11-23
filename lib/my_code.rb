@@ -58,7 +58,7 @@ def map_to_square(array)
   new_array
 end
 
-def reduce_to_total(array, starting_point=0)
+def reduce_to_total(array, starting_point = 0)
   # starting_point = 0 if starting_point == nil
 
   i = 0

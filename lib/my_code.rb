@@ -87,6 +87,13 @@ def reduce_to_all_true(array)
 end
 
 def reduce_to_any_true(array)
-  pp array
+  i = 0
+  while i < array.length
+    element = array[i]
+
+    return true if element == true
+
+    i += 1
+  end
 
 end

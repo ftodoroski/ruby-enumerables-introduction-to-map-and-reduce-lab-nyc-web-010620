@@ -77,7 +77,6 @@ def reduce_to_all_true(array)
   i = 0
   while i < array.length
     element = array[i]
-
     return false if element == false || element == nil
 
     i += 1
